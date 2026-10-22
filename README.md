@@ -1,4 +1,5 @@
 # Playwright_UI_Elements_Handling
+Ref: https://playwright.dev/python/docs/intro
 
 A collection of Python Playwright scripts demonstrating UI element interactions and web automation techniques. This repository is designed to practice, learn, and showcase practical web UI automation testing skills using Playwright with Python.
 
